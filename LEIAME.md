@@ -2,7 +2,7 @@
 
 Este é o projeto de um currículo básico e flexível em HTML e com estilização em CSS. Leia o passo a passo abaixo caso não seja totalmente familiarizado com as linguagens mencionadas:
 
-- No endereço "https://github.com/rafa-ra/resume", clique no botão verde "Código/Code" e baixe o arquivo ZIP com todos os arquivos para seu computador.
+- No endereço "https://github.com/rafa-ra/resume", clique no botão verde "Código/Code" e <b>baixe o arquivo ZIP</b> com todos os arquivos para seu computador.
 - Extraia o arquivos em uma pasta. Só é essencial fazer alterações no arquivo "Template.html", mas caso tenha familiaridade com as demais tecnologia, o mundo é seu quintal!
 - Clique com o botão direito do mouse sobre o arquivo "Template.html" e abra com o bloco de notas.
 - Não se assuste! o código html pode parecer complexo, mas não vamos precisar aprender nada para finalizar essa missão! Aqui vamos chamar esses trechos de texto cercados por chaves de tags. As tags vêm em duplas, assim: < li >Analista adminsitrativo< /li >. Você deverá alterar SOMENTE o texto entre as tags. Neste nosso exemplo, seria somente "Analista administrativo". Tranquilo, certo?
