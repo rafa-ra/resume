@@ -17,7 +17,7 @@ Este é o projeto de um currículo básico e flexível em HTML e com estilizaç�
 
 - Antes de abrir o arquivo "Template.html" com o bloco de notas, o abra no navegador (com o botão direito do mouse, você escolhe como abrir) e <b>acompanhe as alterações</b>. Ao alterar os textos no html, salve a alteração no html e recarregue a página no navegador. Seu texto novo deverá aparecer em seguida.
 - Para deletar linhas não desejadas, você poderá simplesmente excluir as linhas no html. Lembre-se de excluir o par de tags ( As que abrem <> e as que fecham </>).
-- Para deletar os ícones de contato do github, LinkedIn e Whatsapp, basta excluir completamente as tags < a href="#"><img src="./assets/github-sign.png" /></ a>
+- Para deletar os ícones de contato do github, LinkedIn e Whatsapp, basta excluir completamente as tags < a href="#">< img src="./assets/github-sign.png" /></ a>
 - Não altere a localização de arquivos, ou poderá "quebrar" o HTML.
 - Entre em contato em caso de necessidade, será um prazer ajuda-lo: <a href="https://www.linkedin.com/in/rafaelreisaraujo/"> Rafael </a>
 
