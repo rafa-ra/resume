@@ -20,5 +20,6 @@ Este é o projeto de um currículo básico e flexível em HTML e com estilizaç�
 - Para deletar linhas não desejadas, você poderá simplesmente excluir as linhas no html. Lembre-se de excluir o par de tags ( As que abrem <> e as que fecham </>).
 - Para deletar os ícones de contato do github, LinkedIn e Whatsapp, basta excluir completamente as tags < a href="#">< img src="./assets/github-sign.png" /></ a>
 - Não altere a localização de arquivos, ou poderá "quebrar" o HTML.
-- Entre em contato em caso de necessidade, será um prazer ajuda-lo: <a href="https://www.linkedin.com/in/rafaelreisaraujo/"> Rafael </a>
+
+- Entre em contato em caso de necessidade, será um prazer ajuda-lo: <a href="https://www.linkedin.com/in/rafaelreisaraujo/"> Rafael Reis Araújo</a>
 
